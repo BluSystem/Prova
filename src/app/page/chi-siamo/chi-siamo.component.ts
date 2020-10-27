@@ -6,10 +6,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./chi-siamo.component.css']
 })
 export class ChiSiamoComponent implements OnInit {
-
+  tmp:string;
   constructor() { }
 
   ngOnInit(): void {
+    this.tmp="Ciao";
   }
 
 }
