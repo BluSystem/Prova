@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Prova"
+    }
+  },
+  "defaultProject": "Prova",
+  "cli": {
+    "analytics": "456b99ae-9ab0-47fb-ac8b-504466f2bfc6"
+  }
 }
