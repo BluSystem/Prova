@@ -11,6 +11,7 @@ export class Error404Component implements OnInit {
 
   ngOnInit(): void {
     this.tmp="pippo";
+
     
     this.tmp="ciccio"
   }
